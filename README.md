@@ -45,7 +45,7 @@ pip install -r requirements-additional.txt
 ```
 **TabPFN** is pretrained and gated, installing the package is not enough on its own:
 
-1. Create an account on [Prior Lab's website](ux.priorlabs.ai)
+1. Create an account on [Prior Lab's website](https://ux.priorlabs.ai)
 2. Go to the License tab and accept the license for the version of the model in use
 3. Go to the account page and copy your API token
 4. Set is as an environment variable:
